@@ -40,7 +40,7 @@ Ehlers-Danlos syndromes (EDS), with an initial pilot focused on hypermobile Ehle
 
 ### Team description
 
-The Independent Ehlers-Danlos Research Collaborative brings together EDS research, clinical genetics, hematology, translational science, semantic engineering and knowledge-graph infrastructure, patient perspective, data engineering, and AI product development. Lucas Chatham, BBA, CPT, CAFS, of Daybreaker Health, originated the project and serves as Project Lead and application lead; he will direct the Claude workflow, data integration, software development, evaluation, and coordination, and contributes machine-learning, autonomous-systems, health-data, biomechanics, and lived hEDS experience. Melissa A. Haendel, PhD, Director and professor at the UNC School of Medicine TISLab, advances rare-disease diagnostics and care through semantic engineering and data integration. Chris Mungall, PhD, senior computational scientist at Lawrence Berkeley National Laboratory and a Monarch Initiative principal investigator, contributes ontologies, knowledge graphs, phenomics, and biological data integration. Nicolas A. Matentzoglu, PhD, of Semanticly and the Monarch Initiative, is a semantic engineer specializing in biomedical ontologies, mappings, standards, and knowledge graphs. Phillip Andrew Richmond, PhD, Associate Professor and bioinformatics lead at the UNC School of Medicine TISLab, focuses on rare-disease phenotyping, EHR integration, and genomic diagnosis. Christina Marie Laukaitis, MD, PhD, Clinical Associate Professor, Research at Carle Illinois College of Medicine and Carle Health, is a physician-geneticist leading hEDS genetics, omics, and tissue-mechanism research. Jennifer G. Andrews, PhD, MBA, Associate Professor and Research Director in Genetics and Developmental Pediatrics at the University of Arizona College of Medicine, Tucson, contributes translational expertise in genetic and pediatric-onset conditions, patient-reported data, autonomic function, and lifelong care. Rohith Jesudas, MD, Assistant Member in Hematology at St. Jude Children's Research Hospital, is a pediatric hematologist specializing in hemostasis and thrombosis with an interest in rare bleeding disorders, including the bleeding and surgical-readiness pilot. Russell A. Norris, PhD, Professor of Regenerative Medicine and Cell Biology at the Medical University of South Carolina, studies cardiovascular biology, connective-tissue genetics, and mechanisms of tissue development and repair. Megan L. Pearson, BS, a PhD student at the University of Colorado Anschutz Medical Campus in the Department of Dermatology and the Gates Institute, investigates hEDS subtypes and their genetic and epigenetic drivers through electronic health record analysis and patient-derived skin models. Scientific experts will define questions, validate mappings and claims, and review outputs; Lucas will implement and operate the AI workflow.
+The Independent Ehlers-Danlos Research Collaborative brings together EDS research, clinical genetics, hematology, translational science, semantic engineering and knowledge-graph infrastructure, patient perspective, data engineering, and AI product development. Lucas Chatham, BBA, CPT, CAFS, of Daybreaker Health, originated the project and serves as Project Lead and Scientific Lead; he will direct the Claude workflow, data integration, software development, evaluation, and coordination, and contributes machine-learning, autonomous-systems, health-data, biomechanics, and lived hEDS experience. Melissa A. Haendel, PhD, Director and professor at the UNC School of Medicine TISLab, advances rare-disease diagnostics and care through semantic engineering and data integration. Chris Mungall, PhD, senior computational scientist at Lawrence Berkeley National Laboratory and a Monarch Initiative principal investigator, contributes ontologies, knowledge graphs, phenomics, and biological data integration. Nicolas A. Matentzoglu, PhD, of Semanticly and the Monarch Initiative, is a semantic engineer specializing in biomedical ontologies, mappings, standards, and knowledge graphs. Phillip Andrew Richmond, PhD, Associate Professor and bioinformatics lead at the UNC School of Medicine TISLab, focuses on rare-disease phenotyping, EHR integration, and genomic diagnosis. Christina Marie Laukaitis, MD, PhD, Clinical Associate Professor, Research at Carle Illinois College of Medicine and Carle Health, is a physician-geneticist leading hEDS genetics, omics, and tissue-mechanism research. Jennifer G. Andrews, PhD, MBA, Associate Professor and Research Director in Genetics and Developmental Pediatrics at the University of Arizona College of Medicine, Tucson, contributes translational expertise in genetic and pediatric-onset conditions, patient-reported data, autonomic function, and lifelong care. Rohith Jesudas, MD, Assistant Member in Hematology at St. Jude Children's Research Hospital, is a pediatric hematologist specializing in hemostasis and thrombosis with an interest in rare bleeding disorders, including the bleeding and surgical-readiness pilot. Russell A. Norris, PhD, Professor of Regenerative Medicine and Cell Biology at the Medical University of South Carolina, studies cardiovascular biology, connective-tissue genetics, and mechanisms of tissue development and repair. Megan L. Pearson, BS, a PhD student at the University of Colorado Anschutz Medical Campus in the Department of Dermatology and the Gates Institute, investigates hEDS subtypes and their genetic and epigenetic drivers through electronic health record analysis and patient-derived skin models. Scientific experts will define questions, validate mappings and claims, and review outputs; Lucas will implement and operate the AI workflow.
 
 Participation is confirmed for Lucas Chatham, Jennifer G. Andrews, and Melissa A. Haendel. The remaining members are pending confirmation. Team members retain their institutional affiliations. Their institutions are not represented as project sponsors unless separately confirmed.
 
@@ -50,16 +50,16 @@ The ten team members named above will use or review Claude outputs according to 
 
 ### Academic and professional profiles
 
-- [Lucas Chatham](https://www.linkedin.com/in/lucaschatham)
+- [Chris Mungall](https://biosciences.lbl.gov/profiles/chris-mungall/)
 - [Christina Marie Laukaitis](https://medicine.illinois.edu/about/directory/faculty/profile/laukaiti)
-- [Jennifer G. Andrews](https://profiles.arizona.edu/person/jga)
-- [Rohith Jesudas](https://www.stjude.org/people/j/rohith-jesudas.html)
-- [Russell A. Norris](https://profiles.musc.edu/Russell.Norris/)
-- Chris Mungall: **TBD: add profile link before submission.**
-- Megan L. Pearson: **TBD: add profile link before submission.**
-- Melissa A. Haendel: **TBD: add profile link before submission.**
-- Nicolas A. Matentzoglu: **TBD: add profile link before submission.**
-- Phillip Andrew Richmond: **TBD: add profile link before submission.**
+- [Jennifer G. Andrews](https://medicine.arizona.edu/person/jennifer-g-andrews-phd-mba)
+- [Lucas Chatham](https://www.linkedin.com/in/lucaschatham/)
+- [Megan L. Pearson](https://www.linkedin.com/in/megan-kraus-a307941a8/)
+- [Melissa A. Haendel](https://tislab.org/members/melissa-haendel.html)
+- [Nicolas A. Matentzoglu](https://scholar.google.com/citations?user=PaM2ut8AAAAJ&hl=en)
+- [Phillip Andrew Richmond](https://www.med.unc.edu/genetics/directory/phillip-richmond-phd/)
+- [Rohith Jesudas](https://www.researchgate.net/profile/Rohith-Jesudas)
+- [Russell A. Norris](https://education.musc.edu/MUSCApps/facultydirectory/Norris-Russell)
 
 ## Research proposal
 
@@ -118,7 +118,7 @@ Not applicable. The project does not involve pathogens, virology, drug-resistanc
 
 This is a patient-informed, expert-supervised basic-science project designed for public benefit. We will contribute governance-compatible outputs to the Monarch ecosystem, report negative and failure results, restrict Claude inputs to consented, deidentified, approved data, and keep the Navigator explicitly non-diagnostic and non-prescriptive.
 
-The collaboration must confirm a scientific lead, data-access pathway, ethics pathway, final team participation, and the Anthropic Organization ID before submission.
+The collaboration must confirm the data-access pathway, ethics pathway, final team participation, and the Anthropic Organization ID before submission.
 
 ### Terms of Service
 

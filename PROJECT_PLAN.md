@@ -161,7 +161,7 @@ Patient testers will assess clarity, relevance, burden, missing context, and whe
 
 ### Month 1: Scope and governance
 
-- Confirm scientific lead and team roles.
+- Confirm team roles.
 - Confirm pilot population.
 - Resolve data access and sharing permissions.
 - Determine required ethics or institutional review board pathway.
@@ -220,18 +220,18 @@ Targets will be revised before execution if confirmed data access, governance, o
 
 | Member | Affiliation | Role on this project |
 | --- | --- | --- |
-| Chris Mungall, PhD | Lawrence Berkeley National Laboratory | Ontologies, knowledge graphs, phenomics, and biological data integration; Monarch ecosystem alignment. |
-| Christina Marie Laukaitis, MD, PhD | Carle Illinois College of Medicine and Carle Health | Medical genetics, hEDS, omics, tissue mechanisms, and scientific validation. |
-| Jennifer G. Andrews, PhD, MBA *(confirmed)* | University of Arizona College of Medicine, Tucson | Translational research, patient-reported data, genetic and pediatric-onset conditions, autonomic function, and lifelong care. |
-| Lucas Chatham, BBA, CPT, CAFS *(confirmed)* | Daybreaker Health | Project Lead and originator of the project. AI workflow, data integration, software development, evaluation, coordination, and patient perspective. |
-| Megan L. Pearson, BS | University of Colorado Anschutz Medical Campus, Department of Dermatology and Gates Institute | hEDS subtypes and their genetic and epigenetic drivers through electronic health record analysis and patient-derived skin models. |
-| Melissa A. Haendel, PhD *(confirmed)* | UNC School of Medicine, TISLab | Rare-disease diagnostics and care through semantic engineering and data integration. |
-| Nicolas A. Matentzoglu, PhD | Semanticly and the Monarch Initiative | Biomedical ontologies, mappings, standards, and knowledge graphs. |
-| Phillip Andrew Richmond, PhD | UNC School of Medicine, TISLab | Rare-disease phenotyping, EHR integration, and genomic diagnosis. |
-| Rohith Jesudas, MD | St. Jude Children's Research Hospital | Hemostasis, thrombosis, rare bleeding disorders, and surgical-readiness validation. |
-| Russell A. Norris, PhD | Medical University of South Carolina | Cardiovascular biology, connective-tissue genetics, and mechanisms of tissue development and repair. |
+| [Chris Mungall, PhD](https://biosciences.lbl.gov/profiles/chris-mungall/) | Lawrence Berkeley National Laboratory | Ontologies, knowledge graphs, phenomics, and biological data integration; Monarch ecosystem alignment. |
+| [Christina Marie Laukaitis, MD, PhD](https://medicine.illinois.edu/about/directory/faculty/profile/laukaiti) | Carle Illinois College of Medicine and Carle Health | Medical genetics, hEDS, omics, tissue mechanisms, and scientific validation. |
+| [Jennifer G. Andrews, PhD, MBA](https://medicine.arizona.edu/person/jennifer-g-andrews-phd-mba) *(confirmed)* | University of Arizona College of Medicine, Tucson | Translational research, patient-reported data, genetic and pediatric-onset conditions, autonomic function, and lifelong care. |
+| [Lucas Chatham, BBA, CPT, CAFS](https://www.linkedin.com/in/lucaschatham/) *(confirmed)* | Daybreaker Health | Project Lead and Scientific Lead; originated and started the project. AI workflow, data integration, software development, evaluation, coordination, and patient perspective. |
+| [Megan L. Pearson, BS](https://www.linkedin.com/in/megan-kraus-a307941a8/) | University of Colorado Anschutz Medical Campus, Department of Dermatology and Gates Institute | hEDS subtypes and their genetic and epigenetic drivers through electronic health record analysis and patient-derived skin models. |
+| [Melissa A. Haendel, PhD](https://tislab.org/members/melissa-haendel.html) *(confirmed)* | UNC School of Medicine, TISLab | Rare-disease diagnostics and care through semantic engineering and data integration. |
+| [Nicolas A. Matentzoglu, PhD](https://scholar.google.com/citations?user=PaM2ut8AAAAJ&hl=en) | Semanticly and the Monarch Initiative | Biomedical ontologies, mappings, standards, and knowledge graphs. |
+| [Phillip Andrew Richmond, PhD](https://www.med.unc.edu/genetics/directory/phillip-richmond-phd/) | UNC School of Medicine, TISLab | Rare-disease phenotyping, EHR integration, and genomic diagnosis. |
+| [Rohith Jesudas, MD](https://www.researchgate.net/profile/Rohith-Jesudas) | St. Jude Children's Research Hospital | Hemostasis, thrombosis, rare bleeding disorders, and surgical-readiness validation. |
+| [Russell A. Norris, PhD](https://education.musc.edu/MUSCApps/facultydirectory/Norris-Russell) | Medical University of South Carolina | Cardiovascular biology, connective-tissue genetics, and mechanisms of tissue development and repair. |
 
-Members are listed alphabetically. Participation is confirmed only where marked *(confirmed)*; all other participation is pending confirmation. The collaboration must designate a confirmed scientific lead before submission or award activation. Team members retain their institutional affiliations, and their institutions are not represented as sponsors unless separately confirmed.
+Members are listed alphabetically. Participation is confirmed only where marked *(confirmed)*; all other participation is pending confirmation. Lucas Chatham serves as Project Lead and Scientific Lead. Team members retain their institutional affiliations, and their institutions are not represented as sponsors unless separately confirmed.
 
 ## Governance
 
@@ -262,7 +262,6 @@ If the pilot succeeds, the system can expand across EDS subtypes, institutions, 
 
 ## Current open decisions
 
-- Scientific lead.
 - Final team participation.
 - Pilot inclusion and exclusion criteria.
 - Data owners and permissions.
