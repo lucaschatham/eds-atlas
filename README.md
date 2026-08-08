@@ -78,11 +78,20 @@ Targets remain contingent on confirmed data access, ethics review, consent, and 
 
 ## Team
 
-- **Lucas Chatham:** Project lead; AI workflow, data integration, software development, evaluation, coordination, and patient perspective.
-- **Christina Marie Laukaitis:** Clinical genetics, hEDS, omics, and tissue-mechanism expertise.
-- **Jennifer G. Andrews, PhD, MBA:** Translational research, genetic and pediatric conditions, patient-reported data, EDS symptoms, and bleeding.
-- **Rohith Jesudas, MD:** Hemostasis, thrombosis, bleeding, and surgical-readiness expertise.
-- **Russell Norris, PhD:** Connective-tissue and hEDS mechanism expertise. Participation is pending confirmation.
+| Member | Affiliation | Focus | Contact |
+| --- | --- | --- | --- |
+| Chris Mungall, PhD | Lawrence Berkeley National Laboratory | Senior computational scientist and Monarch principal investigator focused on ontologies, knowledge graphs, phenomics, and biological data integration. | |
+| Christina Marie Laukaitis, MD, PhD | Carle Illinois College of Medicine and Carle Health | Physician-geneticist leading hEDS genetics, omics, and tissue-mechanism research. | |
+| Jennifer G. Andrews, PhD, MBA *(confirmed)* | University of Arizona College of Medicine, Tucson | Translational researcher in genetic and pediatric-onset conditions, autonomic function, and lifelong care. | |
+| Lucas Chatham, BBA, CPT, CAFS *(confirmed)* | Daybreaker Health | Scientific Lead. Expertise in LLM systems infrastructure, products, data systems, applied biomechanics, and lived hEDS. | [chathamworks@gmail.com](mailto:chathamworks@gmail.com) |
+| Megan L. Pearson, BS | University of Colorado Anschutz Medical Campus, Department of Dermatology and Gates Institute | PhD student investigating hEDS subtypes and their genetic and epigenetic drivers through electronic health record analysis and patient-derived skin models. | [megan.pearson@cuanschutz.edu](mailto:megan.pearson@cuanschutz.edu) |
+| Melissa A. Haendel, PhD *(confirmed)* | UNC School of Medicine, TISLab | Director and professor advancing rare-disease diagnostics and care through semantic engineering and data integration. | |
+| Nicolas A. Matentzoglu, PhD | Semanticly and the Monarch Initiative | Semantic engineer specializing in biomedical ontologies, mappings, standards, and knowledge graphs. | [nicolas.matentzoglu@gmail.com](mailto:nicolas.matentzoglu@gmail.com) |
+| Phillip Andrew Richmond, PhD | UNC School of Medicine, TISLab | Associate professor and bioinformatics lead focused on rare-disease phenotyping, EHR integration, and genomic diagnosis. | |
+| Rohith Jesudas, MD | St. Jude Children's Research Hospital | Pediatric hematologist specializing in hemostasis and thrombosis, with an interest in rare bleeding disorders. | |
+| Russell A. Norris, PhD | Medical University of South Carolina | Professor studying cardiovascular biology, connective-tissue genetics, and mechanisms of tissue development and repair. | |
+
+Members are listed alphabetically. Participation is confirmed only where marked *(confirmed)*; all other participation is pending confirmation.
 
 Team members retain their institutional affiliations. Those institutions are not represented as project sponsors unless separately confirmed.
 
@@ -112,9 +121,9 @@ Team members retain their institutional affiliations. Those institutions are not
 
 ## Open decisions
 
-- Confirm the scientific lead and final team roles.
+- Confirm final team roles.
 - Confirm the pilot population and whether hEDS alone or hEDS plus HSD is in scope.
 - Confirm available datasets, consent terms, ethics pathway, and sharing permissions.
 - Confirm quantitative targets after data-access review.
-- Confirm Russell Norris's participation.
+- Confirm participation for every member not yet marked confirmed.
 - Select a content and data license after governance review.
