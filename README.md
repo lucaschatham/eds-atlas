@@ -83,7 +83,7 @@ Targets remain contingent on confirmed data access, ethics review, consent, and 
 | Chris Mungall, PhD | Lawrence Berkeley National Laboratory | Senior computational scientist and Monarch principal investigator focused on ontologies, knowledge graphs, phenomics, and biological data integration. | |
 | Christina Marie Laukaitis, MD, PhD | Carle Illinois College of Medicine and Carle Health | Physician-geneticist leading hEDS genetics, omics, and tissue-mechanism research. | |
 | Jennifer G. Andrews, PhD, MBA *(confirmed)* | University of Arizona College of Medicine, Tucson | Translational researcher in genetic and pediatric-onset conditions, autonomic function, and lifelong care. | |
-| Lucas Chatham, BBA, CPT, CAFS *(confirmed)* | Daybreaker Health | Scientific Lead. Expertise in LLM systems infrastructure, products, data systems, applied biomechanics, and lived hEDS. | [chathamworks@gmail.com](mailto:chathamworks@gmail.com) |
+| Lucas Chatham, BBA, CPT, CAFS *(confirmed)* | Daybreaker Health | Project Lead and originator of the project. Expertise in LLM systems infrastructure, products, data systems, applied biomechanics, and lived hEDS. | [chathamworks@gmail.com](mailto:chathamworks@gmail.com) |
 | Megan L. Pearson, BS | University of Colorado Anschutz Medical Campus, Department of Dermatology and Gates Institute | PhD student investigating hEDS subtypes and their genetic and epigenetic drivers through electronic health record analysis and patient-derived skin models. | [megan.pearson@cuanschutz.edu](mailto:megan.pearson@cuanschutz.edu) |
 | Melissa A. Haendel, PhD *(confirmed)* | UNC School of Medicine, TISLab | Director and professor advancing rare-disease diagnostics and care through semantic engineering and data integration. | |
 | Nicolas A. Matentzoglu, PhD | Semanticly and the Monarch Initiative | Semantic engineer specializing in biomedical ontologies, mappings, standards, and knowledge graphs. | [nicolas.matentzoglu@gmail.com](mailto:nicolas.matentzoglu@gmail.com) |
@@ -121,7 +121,7 @@ Team members retain their institutional affiliations. Those institutions are not
 
 ## Open decisions
 
-- Confirm final team roles.
+- Confirm the scientific lead and final team roles.
 - Confirm the pilot population and whether hEDS alone or hEDS plus HSD is in scope.
 - Confirm available datasets, consent terms, ethics pathway, and sharing permissions.
 - Confirm quantitative targets after data-access review.
