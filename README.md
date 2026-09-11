@@ -2,13 +2,31 @@
 
 A patient-informed, expert-supervised collaboration developing an AI-assisted Ehlers-Danlos syndrome (EDS) phenotype dataset and an explainable evidence navigator.
 
-**Status:** Forming team and preparing an application to Anthropic's AI for Science rare disease program.
+**Status:** Accepted into Anthropic’s AI for Science research program. Workspace setup and research-credit allocation are being coordinated; data access, governance, and final team roles remain in preparation.
 
 **Project title:** Mapping EDS Heterogeneity: A Research-Ready Dataset and Explainable Evidence Navigator
 
 **Track:** Basic science research
 
 > This repository describes a proposed research project. It is not a clinical service and does not provide medical advice, diagnosis, or treatment.
+
+## Project identity and Daybreaker Health connection
+
+**Public-facing project name:** The EDS Atlas Project
+
+**Research group:** Independent Ehlers-Danlos Research Collaborative
+
+**Project Lead and Scientific Lead:** Lucas Chatham, founder of Daybreaker Health
+
+**Research contact:** [lucas@daybreakerhealth.com](mailto:lucas@daybreakerhealth.com)
+
+**Research page:** [The EDS Atlas Project at Daybreaker Health](https://daybreakerhealth.com/research/eds-atlas/)
+
+Alongside his work at Daybreaker Health, Lucas leads this independent, noncommercial initiative as a contribution to health research for public benefit. Daybreaker hosts the project page to document its founder’s role and connect readers with the research. The collaborative is not represented as a registered nonprofit research institute.
+
+The project has an open-source contribution goal. This repository currently contains planning documents; software, datasets, and evaluation results are planned outputs. Appropriate licenses and data-sharing permissions must be established before release and reuse. Anthropic research-program acceptance does not establish eligibility for its separate discounted Team plan.
+
+Status updated September 11, 2026, based on the project lead’s acceptance confirmation and award coordination with Anthropic. The historical application is retained for context; its pre-acceptance status and requested allocations are not current award terms.
 
 ## Why this matters
 
@@ -83,7 +101,7 @@ Targets remain contingent on confirmed data access, ethics review, consent, and 
 | [Chris Mungall, PhD](https://biosciences.lbl.gov/profiles/chris-mungall/) | Lawrence Berkeley National Laboratory | Senior computational scientist and Monarch principal investigator focused on ontologies, knowledge graphs, phenomics, and biological data integration. | |
 | [Christina Marie Laukaitis, MD, PhD](https://medicine.illinois.edu/about/directory/faculty/profile/laukaiti) | Carle Illinois College of Medicine and Carle Health | Physician-geneticist leading hEDS genetics, omics, and tissue-mechanism research. | |
 | [Jennifer G. Andrews, PhD, MBA](https://medicine.arizona.edu/person/jennifer-g-andrews-phd-mba) *(confirmed)* | University of Arizona College of Medicine, Tucson | Translational researcher in genetic and pediatric-onset conditions, autonomic function, and lifelong care. | |
-| [Lucas Chatham, BBA, CPT, CAFS](https://www.linkedin.com/in/lucaschatham/) *(confirmed)* | Daybreaker Health | Project Lead and Scientific Lead. Originated and started the project. Expertise in LLM systems infrastructure, products, data systems, applied biomechanics, and lived hEDS. | [chathamworks@gmail.com](mailto:chathamworks@gmail.com) |
+| [Lucas Chatham, BBA, CPT, CAFS](https://www.linkedin.com/in/lucaschatham/) *(confirmed)* | Daybreaker Health | Project Lead and Scientific Lead. Originated and started the project. Expertise in LLM systems infrastructure, products, data systems, applied biomechanics, and lived hEDS. | [lucas@daybreakerhealth.com](mailto:lucas@daybreakerhealth.com) |
 | [Megan L. Pearson, BS](https://www.linkedin.com/in/megan-kraus-a307941a8/) | University of Colorado Anschutz Medical Campus, Department of Dermatology and Gates Institute | PhD student investigating hEDS subtypes and their genetic and epigenetic drivers through electronic health record analysis and patient-derived skin models. | [megan.pearson@cuanschutz.edu](mailto:megan.pearson@cuanschutz.edu) |
 | [Melissa A. Haendel, PhD](https://tislab.org/members/melissa-haendel.html) *(confirmed)* | UNC School of Medicine, TISLab | Director and professor advancing rare-disease diagnostics and care through semantic engineering and data integration. | |
 | [Nicolas A. Matentzoglu, PhD](https://scholar.google.com/citations?user=PaM2ut8AAAAJ&hl=en) | Semanticly and the Monarch Initiative | Semantic engineer specializing in biomedical ontologies, mappings, standards, and knowledge graphs. | [nicolas.matentzoglu@gmail.com](mailto:nicolas.matentzoglu@gmail.com) |
@@ -117,7 +135,7 @@ Team members retain their institutional affiliations. Those institutions are not
 ## Repository documents
 
 - [Full project plan](PROJECT_PLAN.md)
-- [Anthropic application draft](ANTHROPIC_APPLICATION.md)
+- [Historical Anthropic application draft](ANTHROPIC_APPLICATION.md)
 
 ## Open decisions
 

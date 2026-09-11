@@ -6,7 +6,15 @@
 
 **Applicant group:** Independent Ehlers-Danlos Research Collaborative
 
-**Proposed program:** Anthropic AI for Science, rare disease basic science track
+**Program:** Anthropic AI for Science research program (accepted). The proposal below describes planned work; deliverables and governance approvals are not represented as complete.
+
+**Public-facing name:** The EDS Atlas Project
+
+**Lead:** Lucas Chatham, founder of Daybreaker Health; Project Lead and Scientific Lead.
+
+**Contact:** lucas@daybreakerhealth.com
+
+See the [current project status and organizational relationship](README.md#project-identity-and-daybreaker-health-connection).
 
 **Duration:** Six months
 

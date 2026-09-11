@@ -1,4 +1,6 @@
-# Anthropic AI for Science Application Draft
+# Historical Anthropic AI for Science Application Draft
+
+> Archived proposal, retained for context. As of September 11, 2026, the project has been accepted and workspace setup and credit allocation are being coordinated. The original placeholders, requested allocations, and pre-submission language below are historical, not current award terms. See the [README](README.md) for current status. Research contact: lucas@daybreakerhealth.com.
 
 ## Applicant information
 
