@@ -24,7 +24,7 @@ A patient-informed, expert-supervised collaboration developing an AI-assisted Eh
 
 Alongside his work at Daybreaker Health, Lucas leads this independent, noncommercial initiative as a contribution to health research for public benefit. Daybreaker hosts the project page to document its founder’s role and connect readers with the research. The collaborative is not represented as a registered nonprofit research institute.
 
-The project has an open-source contribution goal. This repository currently contains planning documents; software, datasets, and evaluation results are planned outputs. Appropriate licenses and data-sharing permissions must be established before release and reuse. Anthropic research-program acceptance does not establish eligibility for its separate discounted Team plan.
+The project has an open-source contribution goal. This repository currently contains planning documents; software, datasets, and evaluation results are planned outputs. Code and project documents in this repository are released under the [MIT License](LICENSE). Datasets and patient-derived materials are not covered by that license; their licenses and data-sharing permissions must be established through governance review before release and reuse. Anthropic research-program acceptance does not establish eligibility for its separate discounted Team plan.
 
 Status updated September 11, 2026, based on the project lead’s acceptance confirmation and award coordination with Anthropic. The historical application is retained for context; its pre-acceptance status and requested allocations are not current award terms.
 
@@ -144,4 +144,4 @@ Team members retain their institutional affiliations. Those institutions are not
 - Confirm available datasets, consent terms, ethics pathway, and sharing permissions.
 - Confirm quantitative targets after data-access review.
 - Confirm participation for every member not yet marked confirmed.
-- Select a content and data license after governance review.
+- Select a data license for datasets and patient-derived materials after governance review.
